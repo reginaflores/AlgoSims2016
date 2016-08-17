@@ -2,6 +2,8 @@
 
 **PGTE 5566 A, Th 7:00pm - 9:40pm **
 
+**Course Instructor:** Regina Flores, regina.flores@newschool.edu
+
 **Course TA:** Quinzi Tan, qinzi.tan@newschool.edu
 
 All course material will be found, [here](https://github.com/reginaflores/AlgoSims2016).
