@@ -1,8 +1,10 @@
 **Creative Coding with OpenFrameworks: Alorithms and Simulations FALL 2016**
 
-**PGTE 5566 A, Th 7:00pm - 9:40pm **
+**PGTE 5566 A, Th 7:00pm - 9:40pm**
 
-**Course Instructor:** Regina Flores, regina.flores@newschool.edu
+**Location:** 6 East 16th Street, Room 1208
+
+**Course Instructor:** Regina Flores Mir, regina.flores@newschool.edu
 
 **Course TA:** Quinzi Tan, qinzi.tan@newschool.edu
 
@@ -56,9 +58,9 @@ By the successful completion of this course, students will be able to:
 3. Be comfortable talking about their work in front of other students.
 
 ## Final Grade Calculation
-* 10% participation
+* 5% participation
 * 10% attendance 
-* 15% homework 
+* 20% homework 
 * 30% mid term
 * 35% final project
 
