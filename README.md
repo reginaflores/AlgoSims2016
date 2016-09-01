@@ -1,4 +1,4 @@
-**Creative Coding with OpenFrameworks: Alorithms and Simulations FALL 2016**
+**Creative Coding with OpenFrameworks: Algorithms and Simulations FALL 2016**
 
 **PGTE 5566 A, Th 7:00pm - 9:40pm**
 

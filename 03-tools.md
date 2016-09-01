@@ -14,7 +14,7 @@ Beside Xcode there are some tools that will make your coding experience much eas
  
 * [**OFPlay**](http://patriciogonzalezvivo.com/2012/ofplay/): Fast and easy project generator for openFrameworks. Drag your project folder and make. That's all.
 
-* [OFPlugin](https://github.com/admsyn/OFPlugin): aggregate addons to your projects in seconds directly from Xcode.
+* [OFXcodeMenu](https://github.com/admsyn/OFPlugin): aggregate addons to your projects in seconds directly from Xcode.
 
 * [**sNode**](http://patriciogonzalezvivo.com/2013/snode/): GLSL Shader real time editor that's use [Syphon](http://syphon.v002.info/) to get and share textures and buffers. 
 
