@@ -42,7 +42,7 @@ Students will complete weekly homework assignments in addition to presenting bot
 |  09  | 10/27 | Flow Field and Noise                      |
 |  10  | 11/03 | Case Study: Conway & Gray-Scott           |                     
 |  11  | 11/10 | Case Study: Recursion, Fractals, L-systems|                     
-|  12  | 11/17 | |                      
+|  12  | 11/17 | Case Study: Wild Card 		            |                      
 |  13  | 11/24 | **NO CLASS - THANKSGIVING**               |
 |  14  | 12/01 | Final project workshop                    |
 |  15  | 12/08 | Final project workshop                    |
