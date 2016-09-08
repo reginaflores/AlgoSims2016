@@ -7,6 +7,7 @@
 * Xenon
 * Cartesians/Polar coordinates
 * PI 
+* [Sphere Math](http://mathworld.wolfram.com/SphericalCoordinates.html)
 
 ![PI](http://i.imgur.com/vVcc2OP.gif)
 ![radiants radius](http://i.imgur.com/AQUrYb1.gif)
@@ -32,7 +33,7 @@
 [Chapter 04 ](https://github.com/openframeworks/ofBook/blob/master/chapters/animation/chapter.md) by Zachary Lieberman of the ofBook (from **Function based movement**)
 
 ###Code
-a) Create a square canvas, and play with leaving trails for objects in motion by not clearing the screen.  Play with shapes and colors and see what the most interesting composition you can make is.  Take screenshots of the top 3 you come up with.
+a) Create a square canvas, and play with leaving trails for objects in motion by not clearing the screen.  Play with shapes and colors and see what the most interesting composition you can make is.  Take screenshots of the top 3 you come up with and include them in your Github with your homework.
 
 b) Use sin / cos to emulate a natural phenomenon.  Post a picture or video of what your phenomenon is along with you application.
 
