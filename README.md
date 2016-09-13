@@ -33,20 +33,20 @@ Students will complete weekly homework assignments in addition to presenting bot
 |:----:|:-----:|:------------------------------------------|
 |  01  | 09/01 | OF and Github Setup, ofxAddons, Principles of OOP, Review of Graphics and Motion                         |
 |  02  | 09/08 | Oscillation and trigonometry review       |
-|  03  | 09/15 | Attraction & Repulsion Forces             |         
-|  04  | 09/22 | Case Study: Flocking Simulation           |
-|  05  | 09/29 | Springs and Pointers                      |
-|  06  | 10/06 | **MIDTERM PROJECT PRESENTATIONS**         |              
-|  07  | 10/13 | Field Trip: Presentations at OpenFrameworks Meetup|          
-|  08  | 10/20 | GLSL Shader Simulations                   |
-|  09  | 10/27 | Flow Field and Noise                      |
-|  10  | 11/03 | Case Study: Conway & Gray-Scott           |                     
-|  11  | 11/10 | Case Study: Recursion, Fractals, L-systems|                     
-|  12  | 11/17 | Case Study: Wild Card 		            |                      
+|  03  | 09/15 | Particle Systems                          |         
+|  04  | 09/22 | Attraction & Repulsion Forces             |
+|  05  | 09/29 | Springs (and Pointers if there is time)   |                
+|  06  | 10/06 | Case Study: Flocking Simulation           |              
+|  07  | 10/13 | **MIDTERM PROJECT PRESENTATIONS**         |          
+|  08  | 10/20 | Flow Field and Noise                      |
+|  09  | 10/27 | Field Trip: Presentations at OpenFrameworks Meetup                                                     |
+|  10  | 11/03 | GLSL Shader Simulations                   |                     
+|  11  | 11/10 | Case Study: Conway & Gray-Scott|                     
+|  12  | 11/17 | Case Study: Recursion, Fractals, L-systems		                                                   |                      
 |  13  | 11/24 | **NO CLASS - THANKSGIVING**               |
 |  14  | 12/01 | Final project workshop                    |
 |  15  | 12/08 | Final project workshop                    |
-|  16  | 12/15 | **FINAL PROJECT PRESENTATIONS (w. Guest Crits)**           |
+|  16  | 12/15 | **FINAL PROJECT PRESENTATIONS (w. Guest Crits)**          												            |
 
 
 
