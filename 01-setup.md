@@ -75,7 +75,7 @@ Create a github account if you don't have one already and create a repo for the 
 
 ## 5. Setup up the collective homework repo
 
-	git clone https://github.com/reginaflores/AlgoSims2016_students.git
+	git clone https://github.com/reginaflores/AlgoSims2016__students.git
 	cd AlgoSims2016_students
 	git pull && git submodule init && git submodule update && git submodule status
 	git submodule foreach git checkout master

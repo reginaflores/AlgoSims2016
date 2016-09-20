@@ -34,8 +34,8 @@ Students will complete weekly homework assignments in addition to presenting bot
 |  01  | 09/01 | OF and Github Setup, ofxAddons, Principles of OOP, Review of Graphics and Motion                         |
 |  02  | 09/08 | Oscillation and trigonometry review       |
 |  03  | 09/15 | Particle Systems                          |         
-|  04  | 09/22 | Attraction & Repulsion Forces             |
-|  05  | 09/29 | Springs (and Pointers if there is time)   |                
+|  04  | 09/22 | Attraction/Repulsion Forces & Intro to Pointers         |
+|  05  | 09/29 | Springs & Pointers Contd.                 |                
 |  06  | 10/06 | Case Study: Flocking Simulation           |              
 |  07  | 10/13 | **Field Trip**: OpenFrameworks Meetup (class will meet at 231 Bowery in the Lower East Side)            |                                         
 |  08  | 10/20 | **MIDTERM PROJECT PRESENTATIONS**         |                   
