@@ -45,7 +45,7 @@ Videos:
 
 ###Code
 
-(a) Make an orbiting planet sketch. Get creative! I want to start seeing your personal aestetic in your homeworks. So show me your own style. You can alwasy include inspiration images in the README.md files of your homework. For extra credit, use a GUI using the ofxGUI add-on. If you don't know how to use a GUI go to the examples folder in OF and look at the 'gui' example (examples/gui/guiExample).  
+(a) Make an orbiting planet sketch. Get creative! I want to start seeing your personal aestetic in your homeworks. So show me your own style. You can alwasy include inspiration images in the README.md files of your homework. Use a GUI using the ofxGUI add-on. Go to the examples folder in OF and look at the 'gui' example (examples/gui/guiExample) for GUI tips and tricks.  
 
 (b) Make a particle system that uses repulsion or attraction or both. 
 
