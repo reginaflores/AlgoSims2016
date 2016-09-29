@@ -35,14 +35,14 @@ Students will complete weekly homework assignments in addition to presenting bot
 |  02  | 09/08 | Oscillation and trigonometry review       |
 |  03  | 09/15 | Particle Systems                          |         
 |  04  | 09/22 | Attraction/Repulsion Forces & Intro to Pointers         |
-|  05  | 09/29 | Springs & Pointers Contd.                 |                
+|  05  | 09/29 | Springs & Pointers Continued              |                
 |  06  | 10/06 | Case Study: Flocking Simulation           |              
 |  07  | 10/13 | **Field Trip**: OpenFrameworks Meetup (class will meet at 231 Bowery in the Lower East Side)            |                                         
 |  08  | 10/20 | **MIDTERM PROJECT PRESENTATIONS**         |                   
-|  09  | 10/27 | Flow Field and Noise                      |
-|  10  | 11/03 | GLSL Shader Simulations                   |                     
-|  11  | 11/10 | Case Study: Conway & Gray-Scott           |                     
-|  12  | 11/17 | Case Study: Recursion, Fractals, L-systems|	                                                                         
+|  09  | 10/27 | Meshes and 3D Drawing                     |
+|  10  | 11/03 | Flow Field and Noise                      |                     
+|  11  | 11/10 | GLSL Shader Simulations                   |                     
+|  12  | 11/17 | Case Studies: Recursion, Fractals, L-systems, Conway & Gray-Scott|	                                                                         
 |  13  | 11/24 | **NO CLASS - THANKSGIVING**               |
 |  14  | 12/01 | Final project workshop                    |
 |  15  | 12/08 | Final project workshop                    |
