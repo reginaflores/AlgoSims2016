@@ -40,4 +40,4 @@
 
 Advanced:
 
-(c) Look at the 3D Springs examples in the class repo. Create a program that uses a Spring class and a Particle class and implement an interesting 3D structure using pointers.
+(c) Look at the "3D_Springs"" examples in the class repo under week 5. Create a program that uses a Spring class and a Particle class and implement an interesting 3D structure. Use pointers in your program to demonstrate your understanding of this concept.
