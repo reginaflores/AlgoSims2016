@@ -1,7 +1,7 @@
 
 ##Week 6 Homework
 
-![Flock](http://i.giphy.com/xTiTnBeFVUNNaHttKw.gif)
+![Flock](http://i.giphy.com/YWPFsdZOARWkE.gif)
 
 ##Notes
 
@@ -40,6 +40,4 @@
 
 3. After researching [Dan Savage’s 12 principles](http://en.wikipedia.org/wiki/12_basic_principles_of_animation), make a **looping** composition that specifically embodies a minimum of two of these.  Think of this animation as something you'd want to export and put up on your own vimeo page.
 
-4. Squash and stretch really help things come alive.  Build squash and stretch into one of our particle simulations.  When a particle collides, it should squash, and when it's flying at high speed, it should stretch!  Pay attention to which direction it squashes and stretches.  You may want to make particles bigger so it's easier to see.
-
-5. Implement the 4th unofficial rule of flocking we discussed in class. A boid is only considered if it's with another boid's field of vision. 
+4. Create a 3D implementation of flocking.  
