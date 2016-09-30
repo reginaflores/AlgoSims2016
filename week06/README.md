@@ -1,7 +1,7 @@
 
 ##Week 6 Homework
 
-![Flock](http://i.giphy.com/A7wueTe5SacTe.gif)
+![Flock](http://i.giphy.com/xTiTnBeFVUNNaHttKw.gif)
 
 ##Notes
 
