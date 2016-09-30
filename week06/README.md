@@ -1,7 +1,7 @@
 
 ##Week 6 Homework
 
-![Flock](http://i.giphy.com/YWPFsdZOARWkE.gif)
+![Flock](http://becausebirds.com/wp-content/uploads/2014/07/alain-delorme-5.jpg)
 
 ##Notes
 
