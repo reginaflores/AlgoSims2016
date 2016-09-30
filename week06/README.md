@@ -40,4 +40,4 @@
 
 3. After researching [Dan Savage’s 12 principles](http://en.wikipedia.org/wiki/12_basic_principles_of_animation), make a **looping** composition that specifically embodies a minimum of two of these.  Think of this animation as something you'd want to export and put up on your own vimeo page.
 
-4. Create a 3D implementation of flocking.  
+4. Create a 3D implementation of flocking. Implement the 4th unofficial rule of flocking - A boid is only considered if it's with another boid's field of vision.  
