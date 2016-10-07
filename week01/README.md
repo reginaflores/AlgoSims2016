@@ -1,4 +1,4 @@
-##Week 1 Homework:
+##Week 1 Homework: Principles of OOP, Review of Graphics and Motion            
   
 ### Class Notes
 

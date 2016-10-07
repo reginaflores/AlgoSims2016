@@ -1,5 +1,5 @@
 
-##Week 6 Homework
+##Week 6 Homework: Flocking Simulation Case Study
 
 ![Flock](http://becausebirds.com/wp-content/uploads/2014/07/alain-delorme-5.jpg)
 
