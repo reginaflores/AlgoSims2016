@@ -38,6 +38,8 @@
 
 2. Read [Chapter 6.8 and 6.9](http://natureofcode.com/book/chapter-6-autonomous-agents/) of Daniel Shiffman on-line book and make an openFrameworks implementation of Daniel’s path following algorithms
 
-3. After researching [Dan Savage’s 12 principles](http://en.wikipedia.org/wiki/12_basic_principles_of_animation), make a **looping** composition that specifically embodies a minimum of two of these.  Think of this animation as something you'd want to export and put up on your own vimeo page.
+3. Create a 3D implementation of flocking. Implement the 4th unofficial rule of flocking - A boid is only considered if it's with another boid's field of vision.  
 
-4. Create a 3D implementation of flocking. Implement the 4th unofficial rule of flocking - A boid is only considered if it's with another boid's field of vision.  
+Extra Credit:
+
+After researching [Dan Savage’s 12 principles](http://en.wikipedia.org/wiki/12_basic_principles_of_animation), make a **looping** composition that specifically embodies a minimum of two of these.  Think of this animation as something you'd want to export and put up on your own vimeo page.
