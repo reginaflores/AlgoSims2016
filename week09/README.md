@@ -14,6 +14,9 @@
 
 * Shiffman Videos: [I5](https://vimeo.com/58492076) [6.6](https://vimeo.com/63928276) [6.7](https://vimeo.com/63928275) [6.8](https://vimeo.com/63928274)
 * [ofNoise](https://www.youtube.com/watch?v=wkOppaMIsbw&index=40&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) by Lewis Lepton
+* [2D Arays](https://www.youtube.com/watch?v=Da_PPyjOUrE)
+
+
 
 ### Compile and Play
 
@@ -25,9 +28,6 @@
 * [Noise2DExample](https://github.com/openframeworks/openFrameworks/tree/master/examples/math/noiseField2dExample) in your openFrameworks folder under examples/math
 
 
-* [Ken Perlin's Website](http://mrl.nyu.edu/~perlin/) 
-
-
 ###Inspiration:
 * [Vector Field 1](https://vimeo.com/76420206)
 * [Vector Field 2](https://vimeo.com/17433767)
@@ -36,6 +36,9 @@
 
 ###Code:
 
-1. Look at the VectorField examples in the repo.  In the first example, we're setting the vectors in the field three different ways.  First, in a single direction, second, in a random direction, and third, with perlin noise.  Come up with __two__ more ways to set all of the directions of the vectors. Use a GUI or keys to toggle between them. 
+1. Make a cool pattern or character using Perlin Noise. 
 
-2. Implement a 3D vector field and apply on it a 3D Perlin noise
+2. Look at the VectorField example in the repo. We're setting the vectors in the field three different ways.  First, in a single direction, second, in a random direction, and third, with perlin noise.  Come up with __two__ more ways to set all of the directions of the vectors. Use a GUI or keys to toggle between them. 
+
+3. Implement a 3D vector field and apply on it a 3D Perlin noise
+
