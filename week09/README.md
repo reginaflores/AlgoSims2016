@@ -1,6 +1,6 @@
 ##Week 9 Homework: Flow Field & Noise
 
-![Vector](http://i.giphy.com/10b9MPjuHxwS1W.gif)
+![Vector](http://i.stack.imgur.com/Cj4Mh.png)
 
 
 ### Read

@@ -9,6 +9,7 @@ Students presented their midterm projects:
 	
 	[Github Link](https://github.com/teacow2/fortugnn_AlgoSims2106/tree/master/Midterm)
 	
+	![Nick](images/nick.jpg)
 	
 
 * **Vivian**: 
