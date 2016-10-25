@@ -1,6 +1,6 @@
 ##Week 9 Homework: Flow Field & Noise
 
-![Vector](http://i.stack.imgur.com/Cj4Mh.png)
+![Vector](http://planning.cs.uiuc.edu/img2967.gif)
 
 
 ### Read
@@ -40,5 +40,5 @@
 
 2. Look at the VectorField example in the repo. We're setting the vectors in the field three different ways.  First, in a single direction, second, in a random direction, and third, with perlin noise.  Come up with __two__ more ways to set all of the directions of the vectors. Use a GUI or keys to toggle between them. 
 
-3. Implement a 3D vector field and apply on it a 3D Perlin noise
+3. Implement a 3D vector field and apply 3D Perlin noise.
 
