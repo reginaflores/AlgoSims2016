@@ -1,6 +1,6 @@
 ##Week 9 Homework: Flow Field & Noise
 
-![Vector](http://planning.cs.uiuc.edu/img2967.gif)
+![Vector](https://upload.wikimedia.org/wikipedia/commons/5/57/Magnet0873.png)
 
 
 ### Read
@@ -12,6 +12,7 @@
 
 ###Watch
 
+* Real World Example: [Magnetic Field](https://www.youtube.com/watch?v=8llkHQtaOlg)
 * Shiffman Videos: [I5](https://vimeo.com/58492076) [6.6](https://vimeo.com/63928276) [6.7](https://vimeo.com/63928275) [6.8](https://vimeo.com/63928274)
 * [ofNoise](https://www.youtube.com/watch?v=wkOppaMIsbw&index=40&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) by Lewis Lepton
 * [2D Arays](https://www.youtube.com/watch?v=Da_PPyjOUrE)
