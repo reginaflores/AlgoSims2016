@@ -10,6 +10,13 @@
 
 [Chapter 6.6 Flow Fields](http://natureofcode.com/book/chapter-6-autonomous-agents/) of The Nature of Code by Daniel Shiffman. 
 
+
+Other:
+
+[2D Array](http://www.cppforschool.com/tutorial/array2.html)
+
+[Vector Resize](http://www.cplusplus.com/reference/vector/vector/resize/)
+
 ###Watch
 
 * Real World Example: [Magnetic Field](https://www.youtube.com/watch?v=8llkHQtaOlg)
