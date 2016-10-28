@@ -1,7 +1,8 @@
 #pragma once
 
 #include "ofMain.h"
-#include "Particle.hpp"
+#include "Particle.h"
+#include "VectorField.hpp"
 
 class ofApp : public ofBaseApp{
 
@@ -22,4 +23,8 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 		
+    VectorField vf;
+    vector<Particle> particles;
+
+
 };

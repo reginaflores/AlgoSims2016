@@ -1,12 +1,4 @@
-//
-//  Particle.cpp
-//  00_SimpleVectorField
-//
-//  Created by Regina Flores on 10/27/16.
-//
-//
-
-#include "Particle.hpp"
+#include "Particle.h"
 
 Particle::Particle() {
     pos.x = ofGetWindowWidth()*0.5;
@@ -16,7 +8,7 @@ Particle::Particle() {
     vel.set(0,0,0);
     acc.set(0,0,0);
     
-    damp = 0.97; //resistance
+    damp = 0.97; // de resistance!!!
     radius = 3;
 }
 
@@ -64,11 +56,11 @@ void Particle::addFlockingForce(vector<Particle> &_particles, float _neighborhoo
     float zoneRadiusSq = _neighborhoodRadius * _neighborhoodRadius;
     
     ofPoint sep;    //  SEPARATION
-    
+
     ofPoint ali;    //  ALIGNMENT
     int aliCount = 0;
-    
-    ofPoint coh;    //  COHESION
+
+	ofPoint coh;    //  COHESION
     ofPoint posSum;
     int cohCount = 0;
     
@@ -80,7 +72,7 @@ void Particle::addFlockingForce(vector<Particle> &_particles, float _neighborhoo
             // We only want a boid to act on another boid if it's with zoneRadiusSq.
             // If they aren't within that distance, they are too far away and don't affect each other.
             if( lenSq < zoneRadiusSq ){
-                
+            
                 //  add separation force
                 //
                 ofPoint repulse = diff;
@@ -104,24 +96,24 @@ void Particle::addFlockingForce(vector<Particle> &_particles, float _neighborhoo
     //  Average of Align
     //
     if (aliCount > 0) {
-        ali /= (float)aliCount;
-        ali.limit(0.1);
+		ali /= (float)aliCount;
+		ali.limit(0.1);
     }
     
     //  Average of cohesion
     //
     if (cohCount > 0){
-        posSum /= (float)cohCount;
+		posSum /= (float)cohCount;
     }
-    coh = posSum - pos;
-    coh.limit(0.04);
-    
+	coh = posSum - pos;
+	coh.limit(0.04);
+	
     
     //  Apply forces into acc
     //
-    acc += ali * _alignmentScale;
-    acc += coh * _separationScale;
-    acc += sep * _cohesionScale;
+	acc += ali * _alignmentScale;
+	acc += coh * _separationScale;
+	acc += sep * _cohesionScale;
 }
 
 void Particle::update() {
@@ -142,7 +134,7 @@ void Particle::update() {
     if (tail.size() > 300) {
         tail.erase(tail.begin());
     }
-    
+
 }
 
 void Particle::bounding(){
@@ -183,20 +175,20 @@ void Particle::draw() {
     ofCircle(pos, radius);
     
     ofPoint velNormal = vel;
-    velNormal.normalize();
-    
-    ofVec2f velPerp;
-    velPerp.x = -velNormal.y;
-    velPerp.y = velNormal.x;
-    
-    ofLine(pos.x, pos.y, pos.x + velNormal.x*10, pos.y + velNormal.y*10);
-    
+	velNormal.normalize();
+	
+	ofVec2f velPerp;
+	velPerp.x = -velNormal.y;
+	velPerp.y = velNormal.x;
+	
+	ofLine(pos.x, pos.y, pos.x + velNormal.x*10, pos.y + velNormal.y*10);
+
     //Gives the tail
-    //    ofMesh mesh;
-    //    mesh.setMode(OF_PRIMITIVE_LINE_STRIP);
-    //    for (int i = 0; i < tail.size(); i++) {
-    //        mesh.addVertex(tail[i]);
-    //        mesh.addColor(ofFloatColor(ofMap(i, 0, tail.size()-1, 0, 1)));
-    //    }
-    //    mesh.draw();
+//    ofMesh mesh;
+//    mesh.setMode(OF_PRIMITIVE_LINE_STRIP);
+//    for (int i = 0; i < tail.size(); i++) {
+//        mesh.addVertex(tail[i]);
+//        mesh.addColor(ofFloatColor(ofMap(i, 0, tail.size()-1, 0, 1)));
+//    }
+//    mesh.draw();
 }
