@@ -7,13 +7,15 @@
 
 ### Read
 
-* [Chapter 7: Drawing in 3D - Using ofMesh](http://gcc.bradley.edu/faculty/nelson-matt/IM460/Mastering%20openFrameworks-%20Creative%20Coding%20Demystified%20%5BeBook%5D.pdf) in Mastering openFrameworks: Creative Coding Dymistified. 
+* [Chapter 7: Drawing in 3D - Using ofMesh](http://gcc.bradley.edu/faculty/nelson-matt/IM460/Mastering%20openFrameworks-%20Creative%20Coding%20Demystified%20%5BeBook%5D.pdf) in Mastering openFrameworks: Creative Coding Deymistified. Note here are the code examples from the book: [ofDemystified](https://github.com/firmread/ofDemystified)
 
 * [Introducing OpenGL for OF](http://openframeworks.cc/ofBook/chapters/openGL.html) in ofBook.
 
 * [Drawing Lines](http://openframeworks.cc/ofBook/chapters/lines.html) in ofBook.
 
 * [Basics of Generating Meshes from an Image](http://openframeworks.cc/ofBook/chapters/generativemesh.html) in ofBook.
+
+* Intro to ofFbo: [Multiple Textures](http://openframeworks.cc/ofBook/chapters/shaders.html#multipletextures) and [ofFbo](http://openframeworks.cc/ofBook/chapters/shaders.html#offbo) 
 
 
 ###Watch 
@@ -29,12 +31,10 @@
 
 
 ###Code:
-<!--1. Look through your classmates repos and create a piece based on of one of theirs.  In your source, remember to credit the specific github URL where you got it from.  Consider the process they went through to arrive at where they did, and make yours a thoughtful response to it.-->
 
-1. Using the example from class 'meshPlane' and the example from week 2 'Sphere', create the shape shown below. Do this by "wrapping" the plane around a sphere.
-![meshplaneshere](meshplaneshere.png) 
+1. Using the example from class 'meshPlane' and the example from week 2 'Sphere', create the shape shown below. ![meshplaneshere](meshplaneshere.png) 
 
-2. Using images or video create a 3D mesh application. Add a GUI to modify the verticies and other parameters. 
+2. Using images or video create a fun app using 3D meshes. Add a GUI to modify the verticies and other parameters. 
 
 3. **Final Assignement 1:**
 
