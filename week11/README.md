@@ -30,11 +30,16 @@
 
 
 ### Code:
-1. Choose a simple shader from [ShaderToy](https://www.shadertoy.com/) write on WebGL and convert it to openGL 2.0 (that we use on OF)
 
-2. Use a shader to simulate a natural phenomena
 
-4. **Final Assignment 2:**
+1. Use a shader to simulate a natural phenomena
+
+2. Like in the Terrain exmaple we saw in class, create a mesh using shaders to render the mesh. Add lighting for effect. Add a GUI to modulate parameters.  
+
+3. **Final Assignment 2:**
 
 	Narrow down your three concepts for the final project to one concept. Come to the next class with (1) a clear concept slide on what you intend to make and (2) a mock-up of what your final piece will be. The mockup can be a hand drawn sketch or photoshop, but must clearly show what you will make and present as your final piece. I do not want to see code! I want to see that you have thought critically about the elements of your piece. Please do not come to class with a napkin sketch, I am looking to see that you have put in time and consideration into what your final piece will look like. 
+	
+4. Extra Credit: Choose a simple shader from [ShaderToy](https://www.shadertoy.com/) write on WebGL and convert it to openGL 2.0 (that we use on OF)
+	
  
