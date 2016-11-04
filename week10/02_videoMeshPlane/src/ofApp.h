@@ -20,5 +20,39 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-		
+
+    ofVideoPlayer video;
+    ofFbo fbo;
+    ofMesh mesh;
+    
+    ofImage image;
+    ofPixels fboPixels;
+    
+    ofEasyCam cam;
+    
+    //video width and video height
+    //MUST be the same w, h of the actual video
+    int videoWidth = 450;
+    int videoHeight = 360;
+    
+    int W = 100;
+    int H = 100;
+    
+    int meshSize = 6; //scale to enlargen the mesh
+    float distortion = 2; 
+    
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
