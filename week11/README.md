@@ -161,7 +161,7 @@ The generated fragments then pass through another program called the fragment sh
 
 1. Play around with shaders and try to use a shader to simulate a natural phenomena.
 
-2. Look at examples 2-8 in the repo, create a mesh using shaders to render the mesh. Add lighting for effect. Add a GUI to modulate parameters.  
+2. Look at examples 2-8 in the repo, create a mesh using shaders to render the mesh. Add lighting for effect. Add a GUI to modulate parameters. It's ok to copy the shader files from the examples, but try to make an app that is different and be creative with your personal style.  
 
 3. **Final Assignment 2:**
 
