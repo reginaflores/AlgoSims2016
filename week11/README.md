@@ -1,4 +1,4 @@
-I##Week 11 Homework: GLSL Shader Simulations 
+##Week 11 Homework: GLSL Shader Simulations 
 
 ![shader](http://poniesandlight.co.uk/img/flat_shading_teaser.jpg)
 
