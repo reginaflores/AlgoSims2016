@@ -32,16 +32,16 @@
 
 ###Code:
 
-1. Using the example from class 'meshPlane' and the example from week 2 'Sphere', create the shape shown below. ![meshplaneshere](meshplaneshere.png) 
 
-2. Using images or video create a fun app using 3D meshes. Add a GUI to modify the verticies and other parameters. 
+1. Using images or video create a fun app using 3D meshes. Add a GUI to modify the verticies and other parameters. 
 
-3. **Final Assignement 1:**
+2. **Final Assignement 1:**
 
 	For your final you will create a simulation of a natural phenomenon and use algorithms to implement your ideas. You can think of this literally like modeling water or wind or you can think of this more abstractly like visualizing music. *[For 2nd years only: if you want to do something else related to your thesis, that is ok. Please just let me know that you are using this final project as a prototype for thesis.]*
 
 	You need to have a solid concept. Come to class with a 3 slide presentation of 3 concepts for your final project. Each slide should describe what the natural phenomenon is and how you would implement it and 1 or 2 major precedents. The implementation should reflect your personal aesthetic and style. You will present these concepts in class and receive feedback from the class. *[Second years: if you are doing a thesis prototype, you need to only come to class with 1 slide that describes your concept and implementation plan.]* 
 
+3. **Extra Credit** - Using the example from class 'meshPlane' and the example from week 2 'Sphere', create the shape shown below. ![meshplaneshere](meshplaneshere.png) 
 
 
 

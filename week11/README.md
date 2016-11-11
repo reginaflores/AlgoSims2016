@@ -159,14 +159,10 @@ The generated fragments then pass through another program called the fragment sh
 ### Code:
 
 
-1. Play around with shaders and try to use a shader to simulate a natural phenomena.
-
-2. Look at examples 2-8 in the repo, create a mesh using shaders to render the mesh. Add lighting for effect. Add a GUI to modulate parameters. It's ok to copy the shader files from the examples, but try to make an app that is different and be creative with your personal style.  
+1. Look at examples in the repo and play with shaders. Try to create a mesh using shaders to render the mesh. Add lighting for effect. Add a GUI to modulate parameters. It's ok to copy the shader files from the examples, but try to make an app that is different and be creative with your personal style. Just experiment and see what you can do! But please do something!  
 
 3. **Final Assignment 2:**
 
 	Narrow down your three concepts for the final project to one concept. Come to the next class with (1) a clear concept slide on what you intend to make and (2) a mock-up of what your final piece will be. The mockup can be a hand drawn sketch or photoshop, but must clearly show what you will make and present as your final piece. I do not want to see code! I want to see that you have thought critically about the elements of your piece. Please do not come to class with a napkin sketch, I am looking to see that you have put in time and consideration into what your final piece will look like. 
-	
-4. Extra Credit: Choose a simple shader from [ShaderToy](https://www.shadertoy.com/) write on WebGL and convert it to openGL 2.0 (that we use on OF)
-	
+		
  
