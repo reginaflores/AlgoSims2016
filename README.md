@@ -45,7 +45,7 @@ Students will complete weekly homework assignments in addition to presenting bot
 |  12  | 11/17 | Case Studies: Recursion, Fractals, L-systems, Conway & Gray-Scott                               |                  
 |  13  | 11/24 | **NO CLASS - THANKSGIVING**               |
 |  14  | 12/01 | Final project workshop                    |
-|  15  | 12/08 | Final project workshop                    |
+|  15  | 12/08 | Final project work day                    |
 |  16  | 12/15 | **FINAL PROJECT PRESENTATIONS (w. Guest Crits)**          								            |
 
 
