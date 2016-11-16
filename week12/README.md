@@ -5,7 +5,7 @@
 
 ### Read
 
-Reaction: 
+**Reaction**: 
 
 * [Chapter 7 - Cellular Automata ](http://natureofcode.com/book/chapter-7-cellular-automata/) fro The Nature of Code by Daniel Shiffman. Watch the videos [7.1](https://vimeo.com/64198156) [7.2](https://vimeo.com/64198154) [7.3](https://vimeo.com/64198155) [7.4](https://vimeo.com/64198157)
 
@@ -19,11 +19,11 @@ Reaction:
 
 * [A New Kind of Science](http://www.wolframscience.com/nksonline/toc.html) by Stephen Wolfram
 
-Diffusion:
+**Diffusion**:
 
 * [2D Water ripples](http://freespace.virgin.net/hugo.elias/graphics/x_water.htm)
 
-Reaction-Diffusion:
+**Reaction-Diffusion**:
 
 * [Reaction Diffusion](http://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system) from wikipedia
 
@@ -33,9 +33,9 @@ Reaction-Diffusion:
 
 * [Reaction Diffusion by the Gray-Scott Model](http://mrob.com/pub/comp/xmorphia/)
 
-Watch [1](https://vimeo.com/1272071) [2](https://vimeo.com/14153420)
+* Watch [Video 1](https://vimeo.com/1272071) and [Video 2](https://vimeo.com/14153420)
 
-Fractals:
+**Fractals**:
 
 * [Chapter 8 - Fractals](http://natureofcode.com/book/chapter-8-fractals/) fro The Nature of Code by Daniel Shiffman. Watch the videos [8.1](https://vimeo.com/64424400) [8.2](https://vimeo.com/64424402) [8.3](https://vimeo.com/64424401) [8.4](https://vimeo.com/64663042)
 
