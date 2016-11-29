@@ -20,5 +20,21 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-		
+
+    ofMesh mesh;
+    int gridWidth;
+    int gridHeight;
+    
+    int i1, i2, i3, i4;
+    
+    int radius;
+    float theta, phi;
+    
+    float x, y, z;
+    
+    ofEasyCam cam;
 };
+
+
+
+
