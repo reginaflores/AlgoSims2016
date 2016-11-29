@@ -2,6 +2,9 @@
 ##Week 15 Homework: Final Project Workshop 2
 
 
+###No Class - Work on your final projects!
+  
+
 **Final Assignment 5:**
 
 Finish your final projects!
