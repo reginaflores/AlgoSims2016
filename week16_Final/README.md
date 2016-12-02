@@ -3,7 +3,7 @@
 
 ###Week 16: Final!
 
-Students presented their midterm projects:
+<!--Students presented their midterm projects:
 
 * **Nick**: 
 	
@@ -75,5 +75,5 @@ Students presented their midterm projects:
 
 	![Sunny](images/sunny.png)
 
-
+-->
 
