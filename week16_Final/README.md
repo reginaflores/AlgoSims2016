@@ -3,77 +3,82 @@
 
 ###Week 16: Final!
 
-<!--Students presented their midterm projects:
 
 * **Nick**: 
 	
-	[Github Link](https://github.com/teacow2/fortugnn_AlgoSims2106/tree/master/Midterm)
+	
+	[Github Link](https://github.com/teacow2/fortugnn_AlgoSims2106/tree/master/Final)
 	
 	![Nick](images/nick.jpg)
+		
+* **Kris**: 
+
+	[Github Link](https://github.com/krisliqc/liq529_AlgoSims2016)
+	
+	![kris](images/Kris.png)
 	
 
 * **Vivian**: 
 
-	[Github Link](https://github.com/thevivs/leet107_algosims2016/tree/master/Week07)
+	[Github Link](https://github.com/thevivs/leet107_algosims2016/tree/master/FINALS_final)
 	
 	![Vivian](images/vivian.png)
-
-* **Danli**: 
-
-	[Github Link](https://github.com/DanliHu/hud092_AlgoSims2016/tree/master/Midterm)
-	
-	![Danli](images/danli.png)
-
-* **Vishal**: 
-
-	[Github Link](https://github.com/vishaalravikumar/Vishaal_AlgoSims2016/tree/master/w07_Midterm%20Project%20Presentation)
-
-	![vishal](images/vishal.png)
-
-* **Jeana**: 
-
-	[Github Link](https://github.com/jeanachesnik/chesj445_AlgoSims2016/tree/master/Midterm)
-	
-	![Jeana](images/jeana.png)
-
-* **Nyantee**: 
-
-	[Github Link](https://github.com/nyantee/ashen733__AlgoSims2016/tree/master/Midterm_candy_Explos)
-
-	![nyantee](images/nyantee.png)
-
-* **Yiqi**:
-
-	[Github Link](https://github.com/qishisuicong/suny030_AlgoSims2016/tree/master/w7_Midterm_Version1)
-	
-	![yiqi](images/yiqi.png)
-	
-	
-* **Kris**: 
-
-	[Github Link](https://github.com/krisliqc/liq529_AlgoSims2016/tree/master/midterm_project)
-	
-	![kris](images/kris.png)
-	
-* **Andrew**: 
-
-	[Github Link](https://github.com/thatcotter/cotta074_algosims2016/tree/master/wk07_midterm)
-	
-	![andrew](images/andrew.png)
 
 
 * **Tao**: 
 
-	[Github Link](https://github.com/monkbysea/weit896_AlgoSims2016/tree/master/w07_midterm)
+	[Github Link](https://github.com/monkbysea/weit896_AlgoSims2016/tree/master/Final%20presentation)
 
-	![Tao](images/tao.jpg)
+	![Tao](images/tao.png)
+
+
+* **Danli**: 
+
+	[Github Link](https://github.com/DanliHu/hud092_AlgoSims2016/tree/master/Final)
+	
+	![Danli](images/danli.jpeg)
+	
+	
+* **Andrew**: 
+
+	[Github Link](https://github.com/thatcotter/cotta074_algosims2016/tree/master/wk16_final)
+	
+	![andrew](images/andrew.jpg)
+	
+* **Yiqi**:
+
+	[Github Link](https://github.com/qishisuicong/suny030_AlgoSims2016/tree/master/Final_Project)
+	
+	![yiqi](images/yiqi.png)
+	
+
+* **Nyantee**: 
+
+	[Github Link](https://github.com/nyantee/ashen733__AlgoSims2016/tree/master/FINAL)
+
+	![nyantee](images/nyantee.png)
+
+
+* **Jeana**: 
+
+	[Github Link](https://github.com/jeanachesnik/chesj445_AlgoSims2016/tree/master/Final8)
+	
+	![Jeana](images/jeana.png)
 
 
 * **Sunny**: 
 
-	[Github Link](https://github.com/sunnythedude/podia270_AlgoSims2016/tree/master/week7_midterms)
+	[Github Link](https://github.com/sunnythedude/podia270_AlgoSims2016/tree/master/FINAL)
 
 	![Sunny](images/sunny.png)
 
--->
+
+* **Vishal**: 
+
+	[Github Link](https://github.com/vishaalravikumar/Vishaal_AlgoSims2016/tree/master/w15_FinalProject)
+
+	![vishal](images/vishal.png)
+
+
+
 
