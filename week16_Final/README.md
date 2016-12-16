@@ -13,7 +13,7 @@
 
 	[Github Link](https://github.com/krisliqc/liq529_AlgoSims2016)
 	
-	![kris](images/kris.png)
+	![kris](images/kris_image.png)
 	
 
 * **Vivian**: 
