@@ -1,7 +1,5 @@
-<!--![Code](http://i.giphy.com/gU25raLP4pUu4.gif)
--->
 
-###Week 16: Final!
+###Week 16: Final Projects!
 
 
 * **Nick**: 
@@ -15,14 +13,14 @@
 
 	[Github Link](https://github.com/krisliqc/liq529_AlgoSims2016)
 	
-	![kris](images/Kris.png)
+	![kris](images/kris.png)
 	
 
 * **Vivian**: 
 
 	[Github Link](https://github.com/thevivs/leet107_algosims2016/tree/master/FINALS_final)
 	
-	![Vivian](images/vivian.png)
+	![Vivian](images/vivian_image.png)
 
 
 * **Tao**: 
